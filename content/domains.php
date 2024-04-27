@@ -10,6 +10,7 @@
 		$otherTitle = "Other TLDs";
 	}
 ?>
+<p>$page: <?php echo @$page; ?></p>
 <div class="section" data-section="search">
 	<div class="title"><?php echo $title; ?></div>
 	<div class="box">
@@ -57,17 +58,3 @@
 
 	</div>
 </div>
-
-<!-- <div class="section" data-section="tlds">
-	<div class="title"><?php echo $otherTitle; ?></div>
-	<div class="box">
-		<div class="list">
-			<?php
-				foreach ($stakedDomains as $key => $domain) { ?>
-					<div class="submit auto" data-action="shopTLD" data-tld="<?php echo $domain["tld"]; ?>">.<?php echo $domain["tld"]; ?></div>
-				<?php
-				}
-			?>
-		</div>
-	</div>
-</div> -->
