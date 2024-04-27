@@ -60,19 +60,11 @@ Embrace the future of decentralized web naming with ".g/" - where every domain i
 		<div class="row" data-domain="top.g">
 			<div class="items">
 				<div>top.g<div class="status unavailable">Reserved for Andrew Tate</div></div>
-				<div class="actions">
-				<div class="buy button" data-action="buyDomain" title="Available">Buy</div>
-			</div>
-			</div>
-		</div>
-	<div class="row" data-domain="bottom.g">
-			<div class="items">
-				<div>bottom.g<div class="status unavailable">Reserved for</div></div>
-				<div class="actions">
-					<div class="buy button" data-action="buyDomain" title="Available">Buy</div>
+					<div class="actions">
+						<p style="color:white;">Tweet @gdomains to claim</p>
+					</div>
 				</div>
 			</div>
-		</div>
 		</div>
 		<div id="domainTable" class="table"></div>
 
