@@ -175,7 +175,7 @@ function loadPage(noState) {
 
 	var name;
 	var title = $("title").data("name");
-
+	console.log(page);
 	switch (page) {
 		case "manage":
 			var data = dataForZone(zone);
@@ -1333,9 +1333,9 @@ function searchDomainsResult(query, tld) {
 }
 
 function randomDomainsResult(t=false) {
-	// getRandomAvailableNames(t).then(function(response){
-	// 	domainResult(response);
-	// });
+	getRandomAvailableNames(t).then(function(response){
+		domainResult(response);
+	});
 }
 
 function gotDomainResult() {
