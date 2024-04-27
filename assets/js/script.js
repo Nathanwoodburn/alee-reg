@@ -360,7 +360,7 @@ function afterLoad(page) {
 			break;
 
 		case "tld":
-			// doSearchDomains();
+			doSearchDomains();
 			break;
 
 		case "notify":
@@ -1321,9 +1321,9 @@ function doSearchDomains(searching=false) {
 	if (query.length) {
 		searchDomainsResult(query, tld);
 	}
-	else {
-		randomDomainsResult(tld);
-	}
+	// else {
+		// randomDomainsResult(tld);
+	// }
 }
 
 function searchDomainsResult(query, tld) {
