@@ -58,7 +58,7 @@
 	</div>
 </div>
 
-<div class="section" data-section="tlds">
+<!-- <div class="section" data-section="tlds">
 	<div class="title"><?php echo $otherTitle; ?></div>
 	<div class="box">
 		<div class="list">
@@ -70,4 +70,4 @@
 			?>
 		</div>
 	</div>
-</div>
+</div> -->
