@@ -3,9 +3,9 @@
 
 	// UPDATE HNS PRICE
 	$price = getHandshakePrice();
-	if ($price) {
-		sql("INSERT INTO `price` (time, price) VALUES (?,?)", [time(), $price]);
-	}
+	// if ($price) {
+	// 	sql("INSERT INTO `price` (time, price) VALUES (?,?)", [time(), $price]);
+	// }
 
 	// CHECK INVOICES
 	$getInvoices = sql("SELECT * FROM `invoices` WHERE `expired` = 0 AND `paid` = 0");
