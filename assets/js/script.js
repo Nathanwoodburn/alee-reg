@@ -1321,9 +1321,11 @@ function doSearchDomains(searching=false) {
 	if (query.length) {
 		searchDomainsResult(query, tld);
 	}
-	// else {
+	else {
 		// randomDomainsResult(tld);
-	// }
+		$("#searchDomainsTable").removeClass("loading");
+		$(".section[data-section=slds] .loading").remove();
+	}
 }
 
 function searchDomainsResult(query, tld) {
