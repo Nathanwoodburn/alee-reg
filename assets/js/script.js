@@ -360,7 +360,7 @@ function afterLoad(page) {
 			break;
 
 		case "tld":
-			doSearchDomains();
+			// doSearchDomains();
 			break;
 
 		case "notify":
