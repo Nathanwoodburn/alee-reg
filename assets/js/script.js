@@ -1333,9 +1333,9 @@ function searchDomainsResult(query, tld) {
 }
 
 function randomDomainsResult(t=false) {
-	getRandomAvailableNames(t).then(function(response){
-		domainResult(response);
-	});
+	// getRandomAvailableNames(t).then(function(response){
+	// 	domainResult(response);
+	// });
 }
 
 function gotDomainResult() {
