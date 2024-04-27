@@ -38,20 +38,20 @@
 		<div id="reserveddomainTable" class="table">
 		<div class="row" data-domain="top.g">
 			<div class="items">
-				<div>top.g<div class="status reserved">Reserved for Andrew Tate</div></div>
-				<!-- <div class="actions">
+				<div>top.g<div class="status unavailable">Reserved for Andrew Tate</div></div>
+				<div class="actions">
 				<div class="price HNS" data-price="10.00">1,000</div>
-				<div class="buy button" data-action="buyDomain" title="Available">Buy</div> -->
-			<!-- </div> -->
+				<div class="buy button" data-action="buyDomain" title="Available">Buy</div>
+			</div>
 			</div>
 		</div>
 	<div class="row" data-domain="bottom.g">
 			<div class="items">
-				<div>bottom.g<div class="status reserved">Reserved for</div></div>
-				<!-- <div class="actions">
+				<div>bottom.g<div class="status unavailable">Reserved for</div></div>
+				<div class="actions">
 					<div class="price HNS" data-price="10.00">1,000</div>
 					<div class="buy button" data-action="buyDomain" title="Available">Buy</div>
-				</div> -->
+				</div>
 			</div>
 		</div>
 		</div>
