@@ -53,6 +53,8 @@
 			</div>
 		</div>
 		</div>
+		<div id="domainTable" class="table"></div>
+
 	</div>
 </div>
 
