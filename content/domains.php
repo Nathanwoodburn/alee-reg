@@ -10,7 +10,27 @@
 		$otherTitle = "Other TLDs";
 	}
 ?>
-<p>$page: <?php echo @$page; ?></p>
+<?php
+	if (@$page == "tld") { ?>
+		<div class="section">
+			<div class="title">About</div>
+
+			<div class="box">
+				<div class='tldInfo'>
+					<p>
+					Introducing ".g/" - the groundbreaking TLD that redefines digital identity on the Handshake blockchain. Designed for the modern internet pioneer, ".g/" empowers creators, developers, and innovators with a domain that embodies innovation and creativity.
+
+With ".g/", your online presence transcends traditional boundaries, signaling a commitment to cutting-edge technology and forward-thinking concepts. Whether you're a tech startup, a digital artist, or an enthusiast pushing the boundaries of what's possible online, ".g/" provides a unique platform to showcase your vision to the world.
+
+Embrace the future of decentralized web naming with ".g/" - where every domain is a symbol of ingenuity and progress. Join the movement and secure your place in the digital frontier with ".g/".
+	</p>
+				
+			</div>
+		</div>
+	<?php
+	}
+?>
+
 <div class="section" data-section="search">
 	<div class="title"><?php echo $title; ?></div>
 	<div class="box">
