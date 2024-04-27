@@ -1375,9 +1375,9 @@ function domainResult(response) {
 }
 
 function showNoSearchResultsIfNeeded() {
-	if (!$(".section[data-section=slds] #domainTable").find(".row").length) {
-		$(".section[data-section=slds] .box").append(`<div class="subtitle center">There are no results.</div>`);
-	}
+	// if (!$(".section[data-section=slds] #domainTable").find(".row").length) {
+	// 	// $(".section[data-section=slds] .box").append(`<div class="subtitle center">There are no results.</div>`);
+	// }
 }
 
 function getRandomAvailableNames(tld) {
