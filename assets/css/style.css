@@ -162,6 +162,32 @@ html[data-theme=black] {
 	--borderColorAlt: #181818;
 }
 
+html[data-theme=g] {
+	--primaryBackground: #202021;
+	--secondaryBackground: #000000;
+	--tertiaryBackground: #3f3f3f;
+	--quarteraryBackground: #222;
+	--quinaryBackground: #070707;
+
+	--switchBackground: #222;
+	--switchForeground: #3f3f3f;
+
+	--errorForeground: #fff;
+	--errorBackground: #db4437;
+
+	--primaryForeground: #CCCCCC;
+	--secondaryForeground: #d8d8d8;
+
+	--hnsForeground: #CCCCCC;
+	--statusForeground: #CCCCCC;
+	--buttonForeground: #CCCCCC;
+	--buttonBackground: #409aed;
+	--tooltipBackground: #222;
+
+	--borderColor: #202021;
+	--borderColorAlt: #181818;
+}
+
 /* ShakeStation */
 html[data-theme=shakestation] {
 	--themeColor: #94f9c3;

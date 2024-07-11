@@ -18,11 +18,24 @@
 			<div class="box">
 				<div class='tldInfo'>
 					<p>
-					Introducing ".g/" - the groundbreaking TLD that redefines digital identity on the Handshake blockchain. Designed for the modern internet pioneer, ".g/" empowers creators, developers, and innovators with a domain that embodies innovation and creativity.
+					G's think for themself. G's don't sell out. G's can't be psyoped. G's are not perfect [1]. G's are not idols. G's believe in God.
 
-With ".g/", your online presence transcends traditional boundaries, signaling a commitment to cutting-edge technology and forward-thinking concepts. Whether you're a tech startup, a digital artist, or an enthusiast pushing the boundaries of what's possible online, ".g/" provides a unique platform to showcase your vision to the world.
+G's from the past (feel free to suggest more)
+ 1. Jesus Christ
+ 2. Seneca
+ 3. Musashi Miyamoto
+ 4. King Sejong
+ 5. Ghenghis Khan
 
-Embrace the future of decentralized web naming with ".g/" - where every domain is a symbol of ingenuity and progress. Join the movement and secure your place in the digital frontier with ".g/".
+Modern day G's
+ 1. Satoshi Nakamoto
+ 2. Donald J Trump
+ 3. Kanye West
+ 4. Andrew Tate
+ 5. You?
+
+[1] Except Jesus Christ
+[2] Freemasons also identify with G for some reason. Fuck freemasons, G/ has nothing to do with them.
 	</p>
 				
 			</div>
