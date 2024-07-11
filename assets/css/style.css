@@ -164,7 +164,7 @@ html[data-theme=black] {
 
 html[data-theme=g] {
 	--primaryBackground: #202021;
-	--secondaryBackground: #000000;
+	--secondaryBackground: #282828;
 	--tertiaryBackground: #3f3f3f;
 	--quarteraryBackground: #222;
 	--quinaryBackground: #070707;
