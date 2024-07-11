@@ -187,6 +187,16 @@ html[data-theme=g] {
 	--borderColor: #202021;
 	--borderColorAlt: #181818;
 }
+/* Fonts for body and headers */
+html[data-theme=g] * {
+	font-family: 'Times Newer Roman';
+}
+html[data-theme=g] .title {
+	font-family: 'Open Sans webfont', Helvetica;
+}
+html[data-theme=g] .logo * {
+	font-family: 'Open Sans webfont', Helvetica;
+}
 
 /* ShakeStation */
 html[data-theme=shakestation] {
