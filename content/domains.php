@@ -17,24 +17,10 @@
 
 			<div class="box">
 				<div class='tldInfo'>
-					<p>
-					G's think for themself. G's don't sell out. G's can't be psyoped. G's are not perfect [1]. G's are not idols. G's believe in God.
-
-G's from the past (feel free to suggest more)
- 1. Jesus Christ
- 2. Seneca
- 3. Musashi Miyamoto
- 4. King Sejong
- 5. Ghenghis Khan
-
-Modern day G's
- 1. Satoshi Nakamoto
- 2. Donald J Trump
- 3. Kanye West
- 4. Andrew Tate
- 5. You?
-
-[1] Except Jesus Christ
+					<p>G's think for themself. G's don't sell out. G's can't be psyoped. G's are not perfect [1]. G's are not idols. G's believe in God.<br><br>	
+G's from the past (feel free to suggest more)<br>1. Jesus Christ<br>2. Seneca<br>3. Musashi Miyamoto<br>4. King Sejong<br>5. Ghenghis Khan<br><br>
+Modern day G's<br>1. Satoshi Nakamoto<br>2. Donald J Trump<br>3. Kanye West<br>4. Andrew Tate<br>5. You?<br><br>
+[1] Except Jesus Christ<br>
 [2] Freemasons also identify with G for some reason. Fuck freemasons, G/ has nothing to do with them.
 	</p>
 				
